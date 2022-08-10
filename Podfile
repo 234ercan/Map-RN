@@ -34,3 +34,4 @@ pod 'Google-Maps-iOS-Utils'
     __apply_Xcode_12_5_M1_post_install_workaround(installer)
   end
 end
+///
